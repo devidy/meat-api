@@ -1,11 +1,11 @@
 console.log('n-fatorial')
 
 
-// process.on( 'exit', ()=>{
-//     console.log("script está prester a terminar")
-// })
+/*process.on( 'exit', ()=>{
+    console.log("script está prester a terminar")
+})*/
 
-// console.log(`Executando o script a partir do diretório ${process.cwd()}`)
+console.log(`Executando o script a partir do diretório ${process.cwd()}`)
 
 
 const fatorial = (num)=>{
