@@ -1,0 +1,26 @@
+{
+  "name": "meat-api",
+  "version": "1.0.0",
+  "description": "API de restaurantes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devidy/node-curso.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devidy/node-curso/issues"
+  },
+  "homepage": "https://github.com/devidy/node-curso#readme",
+  "dependencies": {
+    "restify": "^8.5.1"
+  },
+  "devDependencies": {
+    "@types/restify": "5.0.6"
+  }
+}
